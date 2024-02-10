@@ -1,1 +1,3 @@
-# scubp
+EXERCISE 1 ---> 1402/11/20
+
+EXERCISE 2 ---> 1402/11/20
